@@ -23,7 +23,7 @@ public class OptionOne {
 	      
 	      weeklyAverageTax = income * taxRate;
 	      
-	      System.out.println("Weekly average tax withholding is: $" + weeklyAverageTax);
+	      System.out.println("The weekly average tax withholding is: $" + weeklyAverageTax);
 	}   
 }
 	 
